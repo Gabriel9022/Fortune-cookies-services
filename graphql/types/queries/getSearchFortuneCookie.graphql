@@ -1,0 +1,4 @@
+type SearchCookie {
+    id: String,
+    text: String
+}

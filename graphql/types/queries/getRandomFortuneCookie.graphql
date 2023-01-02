@@ -1,0 +1,4 @@
+type RandomCookie {
+    id: String,
+    text: String
+}
